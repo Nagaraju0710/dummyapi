@@ -130,6 +130,266 @@
         "3",
         "4"
       ]
+    },
+    {
+      "id":11,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the world&#039;s most expensive spice by weight?",
+      "correct_answer": "Saffron",
+      "incorrect_answers": [
+        "Cinnamon",
+        "Cardamom",
+        "Vanilla"
+      ]
+    },
+    {
+      "id":12,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+      "correct_answer": "Government",
+      "incorrect_answers": [
+        "Going",
+        "Ghost",
+        "Geronimo"
+      ]
+    },
+    {
+      "id":13,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which language is NOT Indo-European?",
+      "correct_answer": "Hungarian",
+      "incorrect_answers": [
+        "Russian",
+        "Greek",
+        "Latvian"
+      ]
+    },
+    {
+      "id":14,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?",
+      "correct_answer": "Niagara Mohawk Building",
+      "incorrect_answers": [
+        "Taipei 101",
+        "One Detroit Center",
+        "Westendstrasse 1"
+      ]
+    },
+    {
+      "id":15,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The website &quot;Shut Up &amp; Sit Down&quot; reviews which form of media?",
+      "correct_answer": "Board Games",
+      "incorrect_answers": [
+        "Television Shows",
+        "Video Games",
+        "Films"
+      ]
+    },
+    {
+      "id":16,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Where did the pineapple plant originate?",
+      "correct_answer": "South America",
+      "incorrect_answers": [
+        "Hawaii",
+        "Europe",
+        "Asia"
+      ]
+    },
+    {
+      "id":17,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Whose greyscale face is on the kappa emoticon on Twitch?",
+      "correct_answer": "Josh DeSeno",
+      "incorrect_answers": [
+        "Justin DeSeno",
+        "John DeSeno",
+        "Jimmy DeSeno"
+      ]
+    },
+    {
+      "id":18,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+      "correct_answer": "Horse",
+      "incorrect_answers": [
+        "Weave",
+        "Guitar",
+        "Boat"
+      ]
+    },
+    {
+      "id":19,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "3",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "id":20,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Mexican Beer &quot;Corona&quot; is what type of beer?",
+      "correct_answer": "Pale Lager",
+      "incorrect_answers": [
+        "India Pale Ale",
+        "Pilfsner",
+        "Baltic Porter"
+      ]
+    },
+    {
+      "id":21,
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of the American state of Arizona?",
+      "correct_answer": "Phoenix",
+      "incorrect_answers": [
+        "Montgomery",
+        "Tallahassee",
+        "Raleigh"
+      ]
+    },
+    {
+      "id":22,
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The body of the Egyptian Sphinx was based on which animal?",
+      "correct_answer": "Lion",
+      "incorrect_answers": [
+        "Bull",
+        "Horse",
+        "Dog"
+      ]
+    },
+    {
+      "id":23,
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of Jamaica?",
+      "correct_answer": "Kingston",
+      "incorrect_answers": [
+        "San Juan",
+        "Port-au-Prince",
+        "Bridgetown"
+      ]
+    },
+    {
+      "id":24,
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The derisive acronym &quot;PIIGS&quot; refers to which of the following European countries and their economic statuses?",
+      "correct_answer": "Portugal, Ireland, Italy, Greece, Spain",
+      "incorrect_answers": [
+        "Poland, Iceland, Italy, Greece, Serbia",
+        "Poland, Iceland, Italy, Greenland, Spain",
+        "Portugal, Iceland, Ireland, Greece, Serbia"
+      ]
+    },
+    {
+      "id":25,
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many countries does the United States share a land border with?",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "1",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "id":26,
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+      "correct_answer": "Qatar",
+      "incorrect_answers": [
+        "Kuwait",
+        "United Arab Emirates",
+        "Jordan"
+      ]
+    },
+    {
+      "id":27,
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following countries has a flag featuring a yellow lion wielding a sword on a dark red background?",
+      "correct_answer": "Sri Lanka",
+      "incorrect_answers": [
+        "Kiribati",
+        "Scotland",
+        "Bhutan"
+      ]
+    },
+    {
+      "id":28,
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which ocean borders the west coast of the United States?",
+      "correct_answer": "Pacific",
+      "incorrect_answers": [
+        "Atlantic",
+        "Indian",
+        "Arctic"
+      ]
+    },
+    {
+      "id":29,
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of South Korea?",
+      "correct_answer": "Seoul",
+      "incorrect_answers": [
+        "Pyongyang",
+        "Taegu",
+        "Kitakyushu"
+      ]
+    },
+    {
+      "id":30,
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Alps are a mountain range on which continent?",
+      "correct_answer": "Europe",
+      "incorrect_answers": [
+        "North America",
+        "Asia",
+        "Africa"
+      ]
     }
   ]
 }
